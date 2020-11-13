@@ -24,8 +24,8 @@ spring:
   redis:
     #数据库索引
     database: 0
-    host: 47.99.192.119
-    port: 6380
+    host: 120.55.95.100
+    port: 6379
     password: lsp123456789
     #连接超时时间
     timeout: 5000

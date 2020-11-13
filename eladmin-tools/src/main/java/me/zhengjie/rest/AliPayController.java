@@ -47,7 +47,7 @@ import java.util.Map;
 @RequiredArgsConstructor
 @RequestMapping("/api/aliPay")
 @Api(tags = "工具：支付宝管理")
-public class AliPayController {
+public class  AliPayController {
 
     private final AlipayUtils alipayUtils;
     private final AliPayService alipayService;
